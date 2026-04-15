@@ -2,15 +2,7 @@
 	<channel>
 		<title>The Projection Booth Podcast</title>
 		<link>https://www.projectionboothpodcast.com</link>
-		<!--
-		<description>
-			The Projection Booth has been recognized as a premier film podcast by The Washington Post, The A.V. Club, IndieWire, Entertainment Weekly, and Filmmaker Magazine. With over 700 episodes to date and an ever-growing fan base, The Projection Booth features discussions of films from a wide variety of genres with in-depth critical analysis while regularly attracting special guest talent eager to discuss their past gems.<br/>
-			<br/>Visit <a href="http://www.projectionboothpodcast.com" target="_blank" rel="noreferrer noopener">http://www.projectionboothpodcast.com</a>
-			<br/>
-			<br/>Become a supporter of this podcast: <a href="https://www.spreaker.com/podcast/the-projection-booth-podcast--5513239/support?utm_source=rss&utm_medium=rss&utm_campaign=rss">https://www.spreaker.com/podcast/the-projection-booth-podcast--5513239/support</a>.
-		</description>
-		-->
-		<!-- <atom:link href="https://www.spreaker.com/show/5513239/episodes/feed" rel="self" type="application/rss+xml"/> -->
+
 		<language>en</language>
 		<category>Film History</category>
 		<copyright>Mike White</copyright>
@@ -19,36 +11,7 @@
 			<title>The Projection Booth Podcast</title>
 			<link>https://www.projectionboothpodcast.com</link>
 		</image>
-		<!--
-		<lastBuildDate>Fri, 10 Apr 2026 07:01:04 +0000</lastBuildDate>
-		<itunes:author>Weirding Way Media</itunes:author>
-		<itunes:owner>
-			<itunes:name>The Projection Booth</itunes:name>
-			<itunes:email>mike@projection-booth.com</itunes:email>
-		</itunes:owner>
-		<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20d0731450590f8bce760b347a9ee76.jpg"/>
-		<itunes:subtitle>The Projection Booth has been recognized as a premier film podcast by The Washington Post, The A.V. Club, IndieWire, Entertainment Weekly, and Filmmaker Magazine.</itunes:subtitle>
-		<itunes:summary>
-			The Projection Booth has been recognized as a premier film podcast by The Washington Post, The A.V. Club, IndieWire, Entertainment Weekly, and Filmmaker Magazine. With over 700 episodes to date and an ever-growing fan base, The Projection Booth features discussions of films from a wide variety of genres with in-depth critical analysis while regularly attracting special guest talent eager to discuss their past gems.<br/>
-			<br/>Visit <a href="http://www.projectionboothpodcast.com" target="_blank" rel="noreferrer noopener">http://www.projectionboothpodcast.com</a>
-			<br/>
-			<br/>Become a supporter of this podcast: <a href="https://www.spreaker.com/podcast/the-projection-booth-podcast--5513239/support?utm_source=rss&utm_medium=rss&utm_campaign=rss">https://www.spreaker.com/podcast/the-projection-booth-podcast--5513239/support</a>.
-		</itunes:summary>
-		<itunes:category text="TV & Film">
-			<itunes:category text="Film History"/>
-		</itunes:category>
-		<itunes:category text="TV & Film">
-			<itunes:category text="Film Interviews"/>
-		</itunes:category>
-		<itunes:category text="TV & Film">
-			<itunes:category text="Film Reviews"/>
-		</itunes:category>
-		<itunes:explicit>true</itunes:explicit>
-		<itunes:type>episodic</itunes:type>
-		<podcast:funding url="https://www.spreaker.com/podcast/the-projection-booth-podcast--5513239/support?utm_source=rss&utm_medium=rss&utm_campaign=rss">Support the podcast!</podcast:funding>
-			<itunes:duration>2365</itunes:duration>
-			<itunes:keywords>
-		-->
+
 		<item>
 			<title>Special Report: Corey Feldman Versus the World (2025)</title>
 			<link>https://www.spreaker.com/episode/special-report-corey-feldman-versus-the-world-2025--71144409</link>
