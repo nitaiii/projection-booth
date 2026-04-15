@@ -43,8 +43,8 @@
 		</itunes:category>
 		<itunes:explicit>true</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
-		-->
 		<podcast:funding url="https://www.spreaker.com/podcast/the-projection-booth-podcast--5513239/support?utm_source=rss&utm_medium=rss&utm_campaign=rss">Support the podcast!</podcast:funding>
+		-->
 		<item>
 			<title>Special Report: Corey Feldman Versus the World (2025)</title>
 			<link>https://www.spreaker.com/episode/special-report-corey-feldman-versus-the-world-2025--71144409</link>
