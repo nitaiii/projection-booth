@@ -2,12 +2,14 @@
 	<channel>
 		<title>The Projection Booth Podcast</title>
 		<link>https://www.projectionboothpodcast.com</link>
-		<!-- <description>
+		<!--
+		<description>
 			The Projection Booth has been recognized as a premier film podcast by The Washington Post, The A.V. Club, IndieWire, Entertainment Weekly, and Filmmaker Magazine. With over 700 episodes to date and an ever-growing fan base, The Projection Booth features discussions of films from a wide variety of genres with in-depth critical analysis while regularly attracting special guest talent eager to discuss their past gems.<br/>
 			<br/>Visit <a href="http://www.projectionboothpodcast.com" target="_blank" rel="noreferrer noopener">http://www.projectionboothpodcast.com</a>
 			<br/>
 			<br/>Become a supporter of this podcast: <a href="https://www.spreaker.com/podcast/the-projection-booth-podcast--5513239/support?utm_source=rss&utm_medium=rss&utm_campaign=rss">https://www.spreaker.com/podcast/the-projection-booth-podcast--5513239/support</a>.
-		</description> -->
+		</description>
+		-->
 		<!-- <atom:link href="https://www.spreaker.com/show/5513239/episodes/feed" rel="self" type="application/rss+xml"/> -->
 		<language>en</language>
 		<category>Film History</category>
@@ -44,9 +46,9 @@
 		<itunes:explicit>true</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
 		<podcast:funding url="https://www.spreaker.com/podcast/the-projection-booth-podcast--5513239/support?utm_source=rss&utm_medium=rss&utm_campaign=rss">Support the podcast!</podcast:funding>
-		-->
 			<itunes:duration>2365</itunes:duration>
 			<itunes:keywords>
+		-->
 		<item>
 			<title>Special Report: Corey Feldman Versus the World (2025)</title>
 			<link>https://www.spreaker.com/episode/special-report-corey-feldman-versus-the-world-2025--71144409</link>
