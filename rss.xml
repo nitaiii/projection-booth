@@ -17,6 +17,7 @@
 			<title>The Projection Booth Podcast</title>
 			<link>https://www.projectionboothpodcast.com</link>
 		</image>
+		<!--
 		<lastBuildDate>Fri, 10 Apr 2026 07:01:04 +0000</lastBuildDate>
 		<itunes:author>Weirding Way Media</itunes:author>
 		<itunes:owner>
@@ -42,6 +43,7 @@
 		</itunes:category>
 		<itunes:explicit>true</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
+		-->
 		<podcast:funding url="https://www.spreaker.com/podcast/the-projection-booth-podcast--5513239/support?utm_source=rss&utm_medium=rss&utm_campaign=rss">Support the podcast!</podcast:funding>
 		<item>
 			<title>Special Report: Corey Feldman Versus the World (2025)</title>
